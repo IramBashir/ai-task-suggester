@@ -1,0 +1,11 @@
+fastapi #web framework
+uvicorn[standard] # server to run your API
+sqlmodel
+pydantic[dotenv] # handle request/response models
+httpx # make requests to Hugging Face API
+pytest
+python-dotenv # load .env file with your token
+
+
+
+
